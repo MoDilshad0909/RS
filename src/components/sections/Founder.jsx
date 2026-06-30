@@ -55,19 +55,19 @@ const Founder = () => {
 
                   <div className="space-y-4 text-gray-700 leading-relaxed text-justify">
                     <p>
-                      We have established R.S. International School with the sole objective of providing the best possible education, leaving no stone unturned.
+                      We established R.S. International School with the sole objective of providing the best possible education, leaving no stone unturned in nurturing every child’s potential.
                     </p>
                     <p>
-                      One of the greatest gifts a parent can give their child is a quality education. The true purpose of education is not just to impart bookish knowledge but also to instill humanitarian values such as wisdom, compassion, courage, integrity, and reliability in students.
+                      One of the greatest gifts parents can give their children is a quality education. The true purpose of education is not merely to impart academic knowledge but also to instill values such as wisdom, compassion, courage, integrity, and responsibility.
                     </p>
                     <p>
-                      Everything we do is focused on the holistic development of our students in all aspects of life. Education is not limited to academics; it also includes sports, arts & crafts, music, and dance.
+                      Everything we do is focused on the holistic development of our students. We believe that education extends beyond the classroom to include sports, arts & crafts, music, dance, and other co-curricular activities that help shape confident and well-rounded individuals.
                     </p>
                     <p>
-                      Our school encourages students to explore their own potential and adapt to the ever-changing world while providing them with guidance and support to develop decision-making and social skills.
+                      Our school encourages students to discover their unique strengths, embrace new challenges, and adapt to an ever-changing world. We are committed to providing the guidance, support, and opportunities they need to develop critical thinking, sound decision-making, and strong social skills.
                     </p>
                     <p>
-                      I wish the school continued growth and new heights of success in the coming years.
+                      I wish R.S. International School continued growth and success as it reaches new milestones and greater heights in the years to come.
                     </p>
                   </div>
 

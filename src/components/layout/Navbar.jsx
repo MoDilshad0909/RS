@@ -42,7 +42,7 @@ const Navbar = () => {
             <a href="#home" className="flex items-center gap-3">
               <img src="/logo.png" alt="R.S. International School Logo" className="h-10 w-10 sm:h-12 sm:w-12 object-contain bg-white rounded-full p-1" />
               <div className={cn(
-                "font-outfit font-bold text-xl sm:text-2xl tracking-tight hidden sm:block",
+                "font-outfit font-bold text-base leading-tight sm:text-2xl sm:leading-normal tracking-tight max-w-[180px] sm:max-w-none",
                 isScrolled ? "text-[#0D47A1]" : "text-white"
               )}>
                 R.S. International School
