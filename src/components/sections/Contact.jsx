@@ -28,7 +28,7 @@ const Contact = () => {
                 <MapPin className="w-8 h-8 text-[#0D47A1] mb-4" />
                 <h4 className="font-outfit font-bold text-[#1E293B] mb-2">Address</h4>
                 <p className="text-gray-600 text-sm leading-relaxed">
-                  Marhar Mau Khurd, <br />
+                  Marhar Mau Kala (Khurdahi Bazaar), <br />
                   Lucknow, Uttar Pradesh, <br />
                   India
                 </p>

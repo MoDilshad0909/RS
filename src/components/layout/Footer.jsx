@@ -56,7 +56,7 @@ const Footer = () => {
             <ul className="space-y-4">
               <li className="flex items-start text-gray-300 text-sm">
                 <MapPin className="w-5 h-5 mr-3 text-[#F4B400] shrink-0" />
-                <span>Marhar Mau Khurd,<br />Lucknow, Uttar Pradesh, India</span>
+                <span>Marhar Mau Kala (Khurdahi Bazaar),<br />Lucknow, Uttar Pradesh, India</span>
               </li>
               <li className="flex flex-col items-start text-gray-300 text-sm">
                 <div className="flex items-center">
