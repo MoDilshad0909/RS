@@ -103,6 +103,22 @@ const Footer = () => {
             <a href="#" className="hover:text-white transition-colors">Terms of Service</a>
           </div>
         </div>
+
+        {/* Developer Credit */}
+        <div className="mt-8 pt-4 border-t border-white/5 text-center">
+          <p className="text-gray-400 text-[13px] md:text-sm">
+            Designed & Developed by{' '}
+            <a 
+              href="https://dilshad-web-studio-74ejr1hyh-dilshad95692-1657s-projects.vercel.app/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="relative inline-block hover:text-[#3B82F6] transition-colors duration-300 group"
+            >
+              Mo Dilshad
+              <span className="absolute -bottom-0.5 left-0 w-0 h-[1px] bg-[#3B82F6] transition-all duration-300 group-hover:w-full"></span>
+            </a>
+          </p>
+        </div>
       </div>
     </footer>
   );
