@@ -109,7 +109,7 @@ const Footer = () => {
           <p className="text-gray-400 text-[13px] md:text-sm">
             Designed & Developed by{' '}
             <a 
-              href="https://dilshad-web-studio-74ejr1hyh-dilshad95692-1657s-projects.vercel.app/"
+              href="https://www.dilshad.tech/"
               target="_blank"
               rel="noopener noreferrer"
               className="relative inline-block hover:text-[#3B82F6] transition-colors duration-300 group"
